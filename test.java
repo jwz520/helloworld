@@ -5,4 +5,3 @@ class
 		system out printf("hello world");
 	}
 }
-6666666666
